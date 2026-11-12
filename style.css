@@ -1,0 +1,15 @@
+h1 {
+    color: white;
+
+}
+button {
+    color: rgb(2, 2, 30);
+    background-color: rgb(1, 130, 135);
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
+body {
+    background-color: rgb(2, 2, 30);
+    background-size: cover;
+}
